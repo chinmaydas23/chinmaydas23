@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently exploring **HTML and CSS**
-- 📫 How to reach me **iamchinmay44@gmail.com**
+- 📫 Reach me at : **iamchinmay44@gmail.com**
 - 🤷‍♂️ Primary coding language - Java
 
 
