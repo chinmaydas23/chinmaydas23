@@ -23,9 +23,6 @@
 ## My Github Statistics 🧐
 [![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaydas23&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true)](https://github.com/chinmaydas23/)
 
-## My Top Languages ✍✍
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaydas23&theme=chartreuse-dark&langs_count=10)](https://github.com/chinmaydas23)
-
 **Visitor Count**
 
 ![Visitor Count (01/01/21 onwards)](https://profile-counter.glitch.me/{chinmaydas23}/count.svg)
