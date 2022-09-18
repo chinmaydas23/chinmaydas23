@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Chinmay Das</h1>
+<h1 align="center">Hi, I'm Chinmay Das</h1>
 <h3 align="center">3rd Year Engineering Undergrad</h3>
 
 
-- 🌱 I’m currently exploring **HTML and CSS**
+- 🌱 I’m currently exploring **Machine Learning**
 - 📫 Reach me at : **iamchinmay44@gmail.com**
 - 🤷‍♂️ Primary coding language - C++
 
